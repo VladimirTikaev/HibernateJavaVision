@@ -1,5 +1,3 @@
-CREATE DATABASE config_lesson_JavaVision ENCODING 'UTF-8';
-
 create table if not exists engines (
      model varchar(25),
      power int not null,
